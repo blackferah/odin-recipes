@@ -1,4 +1,14 @@
 div
 {background-color: red; color: white; font-size: 32px; text-align: center; font-weight: bold;}
 
+.explanation {
+    background-color: darksalmon; font-family: Verdana, sans-serif;
+}
 
+#question {
+    background-color: white;color: blue; font-size: 24px;
+}
+
+#answer {
+    background-color: lightgreen; font-size: 24px; font-weight: bold;
+}
