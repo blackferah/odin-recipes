@@ -12,3 +12,15 @@ div
 #answer {
     background-color: lightgreen; font-size: 24px; font-weight: bold;
 }
+
+#buttons {
+    font-size: 28px; font-family: "Times New Roman"; font-family: Helvetica, sans-serif; background-color: white;
+}
+
+.click {
+    background-color: black; color: white;
+}
+
+.clickme {
+    background-color: yellow; color: black;
+}
